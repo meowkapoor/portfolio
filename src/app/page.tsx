@@ -1,7 +1,12 @@
+import FeaturedCourses from "@/components/FeaturedSection";
+import HeroSection from "@/components/HeroSection";
 import Image from "next/image";
 
 export default function Home() {
   return (
-    <h1 className="text-2xl text-center">hello</h1>
+    <main className="min-h-screen antialiased bg-black/[0.96] bg-grid-white/[0.02]">
+      <HeroSection />
+      <FeaturedCourses />
+    </main>
   );
 }

@@ -66,7 +66,7 @@ Then visit: http://localhost:3000
 
 ## 📸 Screenshots
 
-| ![Desktop](public/screenshots/hero-section.png) | ![Desktop](public/screenshots/projects-section.png) |
+| ![Desktop](screenshots/hero-section.png) | ![Desktop](screenshots/projects-section.png) |
 
 ---
 

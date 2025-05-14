@@ -5,11 +5,11 @@ import { HoverBorderGradient } from "./ui/hover-border-gradient";
 
 function HeroSection() {
   return (
-    <div className="h-auto md:h-[40rem] w-full rounded-md flex items-center justify-center overflow-hidden mx-auto py-4 md:py-0 relative">
+    <div className="h-auto md:h-[40rem] w-full flex items-center justify-center overflow-hidden mx-auto py-4 md:py-0 relative">
          <BackgroundBeamsWithCollision>
         <div className="p-4 relative w-full text-center">
             <h1 className="
-                mt-20 md:mt-0 text-4xl md:text-7xl font-bold bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-neutral-400
+                mt-20 py-1 md:mt-0 text-4xl md:text-7xl font-bold bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-neutral-400
             ">Master the art of coding</h1>
             <p className="
                 mt-4 font-normal text-base md:text-lg text-neutral-300 max-w-lg mx-auto

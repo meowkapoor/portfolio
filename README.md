@@ -1,36 +1,77 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🧑‍💻 Aryan Kapoor's Developer Portfolio
 
-## Getting Started
+Welcome to my personal developer portfolio, built with **Next.js**, **TypeScript**, and **Tailwind CSS**. This project is a modern, responsive showcase of my skills, projects, and experiences as a developer.
 
-First, run the development server:
+---
+
+## 🚀 Tech Stack
+
+- **Framework**: [Next.js](https://nextjs.org/)
+- **Language**: TypeScript
+- **Styling**: Tailwind CSS
+- **Font Optimization**: [next/font](https://nextjs.org/docs/pages/api-reference/components/font)
+- **Package Manager**: npm
+
+---
+
+## 🗂️ Project Structure
+
+portfolio/
+├── public/ # Static assets
+├── src/
+│ ├── app/ # App directory for routes/pages
+│ │ └── page.tsx # Main portfolio page
+│ └── components/ # Reusable UI components
+├── .gitignore
+├── README.md
+├── package.json
+├── tsconfig.json
+├── next.config.ts
+├── postcss.config.mjs
+├── eslint.config.mjs
+└── tailwind.config.js
+
+---
+
+## 📦 Getting Started
+
+To set up the project locally:
 
 ```bash
+git clone https://github.com/meowkapoor/portfolio.git
+cd portfolio
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+Then visit: http://localhost:3000
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## ✨ Features
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- Fully responsive layout  
+- Fast loading and SEO-optimized  
+- Built with modern frontend stack and animations
+- Clean, modular codebase for easy expansion  
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 🔮 Upcoming Improvements
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Add projects and detailed experience sections  
+- Integrate contact form with email support  
+- Add animations and transitions  
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 📸 Screenshots
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+| ![Desktop](public/screenshots/hero-section.png) | ![Desktop](public/screenshots/projects-section.png) |
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## 📬 Contact
+
+- [LinkedIn](https://www.linkedin.com/in/aryan-kapoor/)
+- [GitHub](https://github.com/meowkapoor)
+- [Twitter](https://twitter.com/meowkapoor)

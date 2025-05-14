@@ -1,6 +1,6 @@
 # 🧑‍💻 Aryan Kapoor's Developer Portfolio
 
-Welcome to my personal developer portfolio, built with **Next.js**, **TypeScript**, and **Tailwind CSS**. This project is a modern, responsive showcase of my skills, projects, and experiences as a developer.
+Welcome to my personal developer portfolio (in development), built with **Next.js**, **TypeScript**, and **Tailwind CSS**. This project is a modern, responsive showcase of my skills, projects, and experiences as a developer.
 
 ---
 
